@@ -25,20 +25,17 @@ Des outils conçus pour les développeurs, afin de faciliter leurs projets.
 - Mods Minecraft open source
 - Et de nombreux bouts de code open source
 
----
 
 ## 🚀 Notre Mission
 
 Chez **SilverCore**, notre mission est simple : **aider à la simplicité avec transparence**.
 
----
 
 ## 🤝 Contribuer
 
 **SilverCore recrute !**  
 En ce moment, SilverCore cherche des développeurs Java, JavaScript, HTML, CSS pour le projet [Silverdium](https://silverdium.fr).
 
----
 
 ## 📢 Rejoignez-nous
 
@@ -49,7 +46,6 @@ Rejoignez notre communauté pour des annonces, des mises à jour et des discussi
 ### 🔗 Réseaux sociaux
 *Rédaction en cours...*
 
----
 
 ## 🛡️ Licence et Copyright
 
