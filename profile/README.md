@@ -1,4 +1,4 @@
-![SilverCore Logo](https://api.silverdium.fr/img/logo.png)
+<!-- ![SilverCore Logo](https://api.silverdium.fr/img/logo.png) -->
 
 # SilverCore - Simplify your experience 🚀
 
@@ -13,10 +13,6 @@ et de fournir du divertissement avec de nombreux services de templates, applicat
 
 ### 🎮 [Silverdium](https://silverdium.fr)
 Un serveur Minecraft moddé PvP faction, conçu pour offrir une expérience de jeu unique.  
-**Points forts :**
-- Monde richement moddé
-- Launcher personnalisé pour une connexion simplifiée
-- Support actif de la communauté
 
 ### 🛠️ [Outils pour développeurs](https://github.com/silvercore/tools)
 Des outils conçus pour les développeurs, afin de faciliter leurs projets.  
@@ -25,27 +21,9 @@ Des outils conçus pour les développeurs, afin de faciliter leurs projets.
 - Mods Minecraft open source
 - Et de nombreux bouts de code open source
 
-
-## 🚀 Notre Mission
-
-Chez **SilverCore**, notre mission est simple : **aider à la simplicité avec transparence**.
-
-
-## 🤝 Contribuer
-
-**SilverCore recrute !**  
-En ce moment, SilverCore cherche des développeurs Java, JavaScript, HTML, CSS pour le projet [Silverdium](https://silverdium.fr).
-
-
-## 📢 Rejoignez-nous
-
 ### 💬 Communauté
 Rejoignez notre communauté pour des annonces, des mises à jour et des discussions avec les autres membres :  
 [Discord de Silverdium](https://discord.gg/tW2EQ4EsD6)
-
-### 🔗 Réseaux sociaux
-*Rédaction en cours...*
-
 
 ## 🛡️ Licence et Copyright
 
