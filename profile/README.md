@@ -39,7 +39,7 @@ Tous droits réservés.
 
 ---
 
-Merci de soutenir les projets [SilverCore](https://core.silverdium.fr) !  
-[Vous pouvez nous aider](https://tipeee.com/silverdium) !  
-
-Copyright (c) 2024 SilverCore | Tous droits réservés.
+by [SilverCore](https://github.com/SilverCore-Git) 👑 [Vous pouvez nous aider](https://tipeee.com/silverdium) 😎💸<br>
+Merci de soutenir les projets SilverCore ❤️ !<br>
+🔐 Vous n'êtes pas autorisé à vendre ce code sans l'autorisation explicite de l'auteur. 🛡️<br>
+⭐  SilverCore ©️ Tous droits reserver  ⭐
