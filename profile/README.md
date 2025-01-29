@@ -8,18 +8,28 @@ et de fournir du divertissement avec de nombreux services de templates, applicat
 **Tout cela en favorisant la bonne éthique et l'open source !**
 
 ---
+## 💾 Nouveau service !! **[SilverTransfer](https://transfert.sivlerdium.fr)** 🔁
 
 ## 🌟 Nos Projets
 
-### 🎮 [Silverdium](https://silverdium.fr)
+### 🎮 [Silverdium](https://silverdium.fr) - 2024
 Un serveur Minecraft moddé PvP faction, conçu pour offrir une expérience de jeu unique.  
 
-### 🤖 [SilverNotif](https://github.com/SilverCore-Git/SilverNotif)
+### 🤖 [SilverNotif](https://github.com/SilverCore-Git/SilverNotif) - 2024
+Un bot discord pour avoir les notifications de nouvelles vidéos sur youtube
+avec tuto complet pour utilisation !
+
+### 💾 [SilverTransfer](https://transfert.sivlerdium.fr)
+**Site web de transfer de fichier gatuit et fiable !**
+Vos transferts heberger en France, alternative Francaise à we transfer 
+
+### </> [SilverSK](https://github.com/SilverCore-Git/SilverSK) - 2025
+Pack complet de script pour le plugin Skript utiliser par [Silverdium](https://silverdium.fr)
 
 ### 🛠️ [Outils pour développeurs](https://github.com/silvercore/tools)
 Des outils conçus pour les développeurs, afin de faciliter leurs projets.  
 **Inclut :**
-- [SilverForms](https://github.com/silverCore-Git/SilverForms)
+- [SilverForms](https://github.com/silverCore-Git/SilverForms) - 2024
 - Mods Minecraft open source
 - Et de nombreux bouts de code open source
 
@@ -38,7 +48,7 @@ Tous droits réservés.
 
 ## ❤️ Aidez-nous !
 
-[Soutenez-nous sur Tipeee](https://tipeee.com/silverdium)
+### **[Soutenez-nous sur Tipeee](https://tipeee.com/silverdium)**
 
 ---
 
