@@ -19,7 +19,7 @@ Un serveur Minecraft moddé PvP faction, conçu pour offrir une expérience de j
 Un bot discord pour avoir les notifications de nouvelles vidéos sur youtube
 avec tuto complet pour utilisation !
 
-### 💾 [SilverTransfer](https://transfert.sivlerdium.fr)
+### 💾 [SilverTransfer](https://transfert.sivlerdium.fr) - 2025
 **Site web de transfer de fichier gatuit et fiable !**
 Vos transferts heberger en France, alternative Francaise à we transfer 
 
