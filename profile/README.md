@@ -14,12 +14,15 @@ et de fournir du divertissement avec de nombreux services de templates, applicat
 ### 🎮 [Silverdium](https://silverdium.fr)
 Un serveur Minecraft moddé PvP faction, conçu pour offrir une expérience de jeu unique.  
 
+### 🤖 [SilverNotif](https://github.com/SilverCore-Git/SilverNotif)
+
 ### 🛠️ [Outils pour développeurs](https://github.com/silvercore/tools)
 Des outils conçus pour les développeurs, afin de faciliter leurs projets.  
 **Inclut :**
 - [SilverForms](https://github.com/silverCore-Git/SilverForms)
 - Mods Minecraft open source
 - Et de nombreux bouts de code open source
+
 
 ### 💬 Communauté
 Rejoignez notre communauté pour des annonces, des mises à jour et des discussions avec les autres membres :  
