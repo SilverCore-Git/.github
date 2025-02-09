@@ -8,8 +8,6 @@ et de fournir du divertissement avec de nombreux services de templates, applicat
 **Tout cela en favorisant la bonne éthique et l'open source !**
 
 ---
-## 💾 Nouveau service !! **[SilverTransfer](https://transfert.sivlerdium.fr)** 🔁
-
 ## 🌟 Nos Projets
 
 ### 🎮 [Silverdium](https://silverdium.fr) - 2024
@@ -22,6 +20,9 @@ avec tuto complet pour utilisation !
 ### 💾 [SilverTransfer](https://transfert.sivlerdium.fr) - 2025
 **Site web de transfer de fichier gatuit et fiable !**
 Vos transferts heberger en France, alternative Francaise à we transfer 
+
+### 💾 [SilverQR](https://qr.sivlerdium.fr) - 2025
+Générateur de qr code !
 
 ### </> [SilverSK](https://github.com/SilverCore-Git/SilverSK) - 2025
 Pack complet de script pour le plugin Skript utiliser par [Silverdium](https://silverdium.fr)
