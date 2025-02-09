@@ -21,7 +21,7 @@ avec tuto complet pour utilisation !
 **Site web de transfer de fichier gatuit et fiable !**
 Vos transferts heberger en France, alternative Francaise à we transfer 
 
-### 💾 [SilverQR](https://qr.sivlerdium.fr) - 2025
+### 🔁 [SilverQR](https://qr.silverdium.fr/) - 2025
 Générateur de qr code !
 
 ### </> [SilverSK](https://github.com/SilverCore-Git/SilverSK) - 2025
