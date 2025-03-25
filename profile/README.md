@@ -1,5 +1,3 @@
-<!-- ![SilverCore Logo](https://api.silverdium.fr/img/logo.png) -->
-
 # SilverCore - Simplify your experience 🚀
 
 Bienvenue sur la page de l'organisation **SilverCore** !  
