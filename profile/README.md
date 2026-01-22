@@ -3,3 +3,10 @@
 
   [web site](https://www.silvercore.fr)
 	
+## Licence
+
+© 2026 Silvercore. Tous droits réservés.
+
+Le code dans les repo de cet organisation est mis à disposition publiquement pour des raisons de transparence uniquement. 
+Aucune autorisation d'utilisation, de modification ou de redistribution n'est accordée.
+Voir le fichier [LICENSE](LICENSE) pour plus de détails.
